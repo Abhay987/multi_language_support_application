@@ -1,0 +1,10 @@
+{
+    "language" : "English",
+    "@language" : {
+        "description": "The current Language"
+    },
+    "personName" : "Sumit",
+    "name" : "Name",
+    "personAge" : "20",
+    "age" : "Age"
+}
